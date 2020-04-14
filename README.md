@@ -26,7 +26,7 @@
 - Scansione appunti probabilità progredito
 - Domande per l'esame orale
 
-##### Data managment for big data
+***Data managment for big data***
 - Link sito del corso (reloaded)
 - Libro "R for Data Science" di Grolemund e Wickam
 - Link Datacamp
@@ -46,19 +46,19 @@
 - RelaX calcolatore di algebra relazionale online
 - yED Graph Editor (per creare diagrammi)
 
-### Demografia
+***Demografia***
 - Analisi di un dataset (Stata)
 - Appunti (png) e appunti (pdf)
 
-### Diritto assicurativo
+***Diritto assicurativo***
 - Appunti 2015/16 prof. A. Lonciari
 - Mappa concettuale
 - Domande Esame
 
-### Elementi di diritto privato
+***Elementi di diritto privato***
 - Appunti
 
-### Economia aziendale
+***Economia aziendale***
 - Compiti svolti 2008-2010
 - Appunti in aula
 - Domande e risposte per l'esame orale a cura di Andrea Martini (che ringraziamo)
@@ -68,36 +68,36 @@
 - Schemi sugli equilibri aziendali
 - Schemi sulle contabilizzazioni
 
-### Elaborazione automatica dei dati
+***Elaborazione automatica dei dati***
 - Appunti a cura di Marco Pasut (che ringraziamo)
 - Progetto gioco del lotto in java (.jar)
 - Codice progetto gioco del lotto in java
 - Riassunti 2016/17 a cura di Fabio Sirotich (che ringraziamo)
 
-### Elementi di economia
+***Elementi di economia***
 - Riassunti 2016/17 a cura di Fabio Sirotich (che ringraziamo)
 
-### Economia e gestione delle imprese
+***Economia e gestione delle imprese***
 - Appunti ed esami svolti a cura di Marco Pasut (che ringraziamo)
 
-### Finanza matematica
+***Finanza matematica***
 - Appunti a.a. 2013/14 (parte 1)
 - Appunti a.a. 2013/14 (parte 2)
 - Domande prof. Bacinello e Girotto
 
-### Finanza per la valutazione d'impresa
+***Finanza per la valutazione d'impresa***
 - Appunti corso 2016/17
 - Domande orali (7/2019)
 - Tesina valutazione Juventus (2019\20)
 - Summary tesina Juventus
 
-### Tecnica attuariale dei fondi pensione
+***Tecnica attuariale dei fondi pensione***
 - Domande orali di 7/2019 (a cura di Roberto Lanfranco che ringraziamo)
 
-### Gestione del rischio finanziario
+***Gestione del rischio finanziario***
 (nessuno per ora)
 
-### Inferenza statistica Bayesiana
+***Inferenza statistica Bayesiana***
 - Appunti revisionati inferenza statistica bayesiana.pdf a cura di Simone Alfiero (che ringraziamo) con loro indice
 - Schema in Excel sui processi stocastici (utilizza con filtro)
 - Schemi vari da appunti corso 2018\19
@@ -107,7 +107,7 @@
 - Dispensa a cura del prof. B. Chiandotto (UniFi)
 - Chetsheet di Probabilità 2.0
 
-### Machine Learning and Data Analytics
+***Machine Learning and Data Analytics***
 - ML algorithms cheat sheet
 - ML modelling in R: cheat sheet
 - Pdf su Cluster e LDA
@@ -116,27 +116,26 @@
 - Slides Medvet in forma gerarchica
 - Domande esame scritto (2017/18)
 
-
-### Matematica attuariale danni
+***Matematica attuariale danni***
 - Appunti di matematica attuariale danni (pdf) e schema logico
 - Sintesi appunti di matematica danni (pdf)
 - Link su GitHub per interessati al file .docx degli appunti
 - Possibili domande esame orale
 
-### Matematica attuariale vita
+***Matematica attuariale vita***
 - Appunti per un ripasso
 
-### Matematica finanziaria
+***Matematica finanziaria***
 - Dispensa a cura della prof.ssa A. Olivieri (UniPa) presi da docsity.com
 - Appunti per un ripasso
 - Esami scritti con rispettive soluzioni (prof.ssa A. Bacinello) avuti da Fabio Sirotich (che ringraziamo)
 - Principali risultati ed idee
 - Appunti 2017/18 a cura di Diego Mangano (che ringraziamo)
 
-### Matematica per economia e statistica
+***Matematica per economia e statistica***
 Sintesi principali teoremi
 
-### Matematica per economia e statistica (progredito)
+***Matematica per economia e statistica (progredito)***
 - Compiti scritti (avuti da Gianluca Iacubino che ringraziamo)
 - Calcolo delle serie di funzioni (online)
 - Calcolo del dominio (online)
@@ -145,35 +144,35 @@ Sintesi principali teoremi
 - Calcolo del gradiente (online)
 - Calcolo dei max\min vincolati (online)
 
-### Modelli econometrici
+***Modelli econometrici***
 - To Pdf (cap. 4-9 S&W + funz. regr.)
 - Appunti 2015 (parte 1, parte 2, parte 3)
 - Introduzione all'Econometria, ed 2006, autori prof. Stock e Watson (Scribd.com)
 - Appunti parziali (pdf) e Appunti parziali (.docx)
 - Prima tesina relativa all'articolo
 
-### Serie storiche ed economiche
+***Serie storiche ed economiche***
 - Riassunti a.a.2016/17 a cura di Fabio Sirotich (che ringraziamo)
 
-### Sistemi contabili e informazione d'impresa
+***Sistemi contabili e informazione d'impresa***
 - Collezione di esami a cura di Alessandro Mocchi (che ringraziamo)
 
-### Statistica aziendale
+***Statistica aziendale***
 - Appunti a cura di Marco Pasut (che ringraziamo)
 
-### Statistical machine learning
+***Statistical machine learning***
 - Link Moodle2
 - J. Goodfellow, Y. Bengio, and A. C. Courville, Deep Learning. MIT press, 2016
 - The Elements of Statistical Learning, Trevor Hastie, Robert Tibshirani, Jerome Friedman, - Springer
 - Cheatsheets Python (molti)
 
-### Tecnica attuariale danni
+***Tecnica attuariale danni***
 - Appunti 2013 a cura di Matteo Scarazzato (che ringraziamo)
 - Appunti in Latex: cap 1
 - Appunti in Latex 2019\20 a cura di Tommaso Lenzi (che ringraziamo)
 - Domande esame orale Gennaio 2020 a cura di Giada Cesaro (che ringraziamo)
 
-### Tecnica attuariale persone
+***Tecnica attuariale persone***
 - Alcune domande esame orale
 
 --------------------------------------
