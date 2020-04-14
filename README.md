@@ -1,9 +1,13 @@
 ### Analisi dei dati
-[prova.txt](https://github.com/ottarub98/YouActuary/Analisi_dei_dati/prova.txt)
+[Caratteri vari.doc](https://github.com/ottarub98/YouActuary/Analisi_dei_dati/Caratteri_vari.doc) togli spazi da titolo
+[Caratteri vari.pdf](https://github.com/ottarub98/YouActuary/Analisi_dei_dati/Caratteri_vari.pdf) togli spazi da titolo
 
-[tad.html](https://github.com/ottarub98/YouActuary/Analisi_dei_dati/tad.html)
+[Distribuzioni2.doc](https://github.com/ottarub98/YouActuary/Analisi_dei_dati/Distribuzioni2.doc) ok
+[Distribuzioni2.pdf](https://github.com/ottarub98/YouActuary/Analisi_dei_dati/Distribuzioni2.pdf) ok
 
-[tad.docx](https://github.com/ottarub98/YouActuary/Analisi_dei_dati/tad.docx)
+[Medie3.doc](https://github.com/ottarub98/YouActuary/Analisi_dei_dati/Medie3.doc) ok
+[Medie3.pdf](https://github.com/ottarub98/YouActuary/Analisi_dei_dati/Medie3.doc) ok
+
 
 
 ## Welcome to GitHub Pages
