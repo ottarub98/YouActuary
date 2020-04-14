@@ -1,9 +1,9 @@
 ### Analisi dei dati
 [prova.txt](https://github.com/ottarub98/YouActuary/Analisi_dei_dati/prova.txt)
 
-[tad.html](https://github.com/ottarub98/YouActuary/Analisi_dei_dati/TAD.html)
+[tad.html](https://github.com/ottarub98/YouActuary/Analisi_dei_dati/tad.html)
 
-[tad.docx](https://github.com/ottarub98/YouActuary/Analisi_dei_dati/TAD.docx)
+[tad.docx](https://github.com/ottarub98/YouActuary/Analisi_dei_dati/tad.docx)
 
 
 ## Welcome to GitHub Pages
