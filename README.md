@@ -10,8 +10,9 @@
 <a href="https://github.com/ottarub98/YouActuary/Documento.pdf" target="_blank">Documento.pdf</a>
 <a href="ottarub98.github.io/YouActuary/Documento.pdf" target="_blank"> altro Documento.pd.</a>
 
+[editor on GitHub](https://github.com/ottarub98/YouActuary/edit/master/README.md)
 [Medie3.doc](https://github.com/ottarub98/YouActuary/Analisi_dei_dati/Medie3.doc) ok
-[Medie3.pdf](https://github.com/ottarub98/YouActuary/Analisi_dei_dati/Medie3.doc) ok
+[Medie3.pdf](https://github.com/ottarub98/YouActuary/Analisi_dei_dati/Medie3.pdf) ok
 
 
 
