@@ -1,7 +1,7 @@
 ### Analisi dei dati
-* [Caratteri vari.doc](https://ottarub98.github.io/YouActuary/Analisi_dei_dati/Caratteri_vari.doc) e [Caratteri vari.pdf](https://ottarub98.github.io/YouActuary/Analisi_dei_dati/Caratteri_vari.pdf) 
-* [Distribuzioni2.doc](https://ottarub98.github.io/YouActuary/Analisi_dei_dati/Distribuzioni2.doc) e [Distribuzioni2.pdf](https://ottarub98.github.io/YouActuary/Analisi_dei_dati/Distribuzioni2.pdf) 
-* [Medie3.pdf](https://ottarub98.github.io/YouActuary/Analisi_dei_dati/Medie3.pdf) e [Medie3.doc](https://ottarub98.github.io/YouActuary/Analisi_dei_dati/Medie3.doc) 
+* Caratteri vari [doc](https://ottarub98.github.io/YouActuary/Analisi_dei_dati/Caratteri_vari.doc) e [pdf](https://ottarub98.github.io/YouActuary/Analisi_dei_dati/Caratteri_vari.pdf) 
+* Distribuzioni2 [doc](https://ottarub98.github.io/YouActuary/Analisi_dei_dati/Distribuzioni2.doc) e [pdf](https://ottarub98.github.io/YouActuary/Analisi_dei_dati/Distribuzioni2.pdf) 
+* Medie3 [pdf](https://ottarub98.github.io/YouActuary/Analisi_dei_dati/Medie3.pdf) e [doc](https://ottarub98.github.io/YouActuary/Analisi_dei_dati/Medie3.doc) 
 
 
 infina username.github.io/project-name/ infina [pippo](ottarub98.github.io/YouActuary/Documento.pdf) infina
