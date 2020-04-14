@@ -1,4 +1,19 @@
- ***Analisi dei dati***
+> "Keep calm and let the actuary analyst handle it" :)
+
+## Chi siamo?
+
+YouActuary nasce nel 2016 dal desiderio di alcuni studenti di statistica dell'Università di Trieste di mettere a disposizione i propri appunti per prepararsi ad un esame.
+
+Siamo un gruppo, **aperto a nuovi interessati**, di studenti di scienze statistiche ed attuariali. La nostra mission è di condividere e diffondere la conoscenza delle scienze attuariali e statistiche mettendo a disposizione gratuitamente appunti e sintesi.
+
+Hai appunti o del materiale che vuoi mettere a disposizione? Inviacelo su fb oppure tramite @
+
+Vuoi rimanere aggiornato sulle ultime novità di YouActuary? Clicca Mi Piace sulla nostra pagina facebook!
+
+
+## Materiale esami
+
+***Analisi dei dati***
 - Appunti sui Caratteri vari: [doc](https://ottarub98.github.io/YouActuary/Analisi_dei_dati/Caratteri_vari.doc) e [pdf](https://ottarub98.github.io/YouActuary/Analisi_dei_dati/Caratteri_vari.pdf) (a cura di Marco Pasut, che ringraziamo)
 - Appunti sulle Distribuzioni: [doc](https://ottarub98.github.io/YouActuary/Analisi_dei_dati/Distribuzioni2.doc) e [pdf](https://ottarub98.github.io/YouActuary/Analisi_dei_dati/Distribuzioni2.pdf) (a cura di Marco Pasut, che ringraziamo)
 - Appunti sulle Medie: [pdf](https://ottarub98.github.io/YouActuary/Analisi_dei_dati/Medie3.pdf) e [doc](https://ottarub98.github.io/YouActuary/Analisi_dei_dati/Medie3.doc) (a cura di Marco Pasut, che ringraziamo)
