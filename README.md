@@ -1,5 +1,5 @@
 ### Analisi dei dati
-[editor on GitHub](https://github.com/ottarub98/YouActuary/Analisi_dei_dati/prova.txt)
+[prova.txt](https://github.com/ottarub98/YouActuary/Analisi_dei_dati/prova.txt)
 
 
 ## Welcome to GitHub Pages
