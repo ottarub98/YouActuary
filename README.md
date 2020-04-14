@@ -1,7 +1,7 @@
 ### Analisi dei dati
-- Caratteri vari [doc](https://ottarub98.github.io/YouActuary/Analisi_dei_dati/Caratteri_vari.doc) e [pdf](https://ottarub98.github.io/YouActuary/Analisi_dei_dati/Caratteri_vari.pdf) (a cura di Marco Pasut, che ringraziamo)
-- Distribuzioni2 [doc](https://ottarub98.github.io/YouActuary/Analisi_dei_dati/Distribuzioni2.doc) e [pdf](https://ottarub98.github.io/YouActuary/Analisi_dei_dati/Distribuzioni2.pdf) (a cura di Marco Pasut, che ringraziamo)
-- Medie3 [pdf](https://ottarub98.github.io/YouActuary/Analisi_dei_dati/Medie3.pdf) e [doc](https://ottarub98.github.io/YouActuary/Analisi_dei_dati/Medie3.doc) (a cura di Marco Pasut, che ringraziamo)
+- Appunti sui Caratteri vari: [doc](https://ottarub98.github.io/YouActuary/Analisi_dei_dati/Caratteri_vari.doc) e [pdf](https://ottarub98.github.io/YouActuary/Analisi_dei_dati/Caratteri_vari.pdf) (a cura di Marco Pasut, che ringraziamo)
+- Appunti sulle Distribuzioni: [doc](https://ottarub98.github.io/YouActuary/Analisi_dei_dati/Distribuzioni2.doc) e [pdf](https://ottarub98.github.io/YouActuary/Analisi_dei_dati/Distribuzioni2.pdf) (a cura di Marco Pasut, che ringraziamo)
+- Appunti sulle Medie: [pdf](https://ottarub98.github.io/YouActuary/Analisi_dei_dati/Medie3.pdf) e [doc](https://ottarub98.github.io/YouActuary/Analisi_dei_dati/Medie3.doc) (a cura di Marco Pasut, che ringraziamo)
 
 ### togliere spazi dal nome dei file, convertire file in pdf, creare cartella senza spazi nel nome su GitHub, uploadare i file nella cartella, scrivere qui il link (come qui sopra)
 ### Calcolo delle probabilità
