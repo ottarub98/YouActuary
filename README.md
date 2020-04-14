@@ -1,14 +1,14 @@
-#### Analisi dei dati
+##### Analisi dei dati
 - Appunti sui Caratteri vari: [doc](https://ottarub98.github.io/YouActuary/Analisi_dei_dati/Caratteri_vari.doc) e [pdf](https://ottarub98.github.io/YouActuary/Analisi_dei_dati/Caratteri_vari.pdf) (a cura di Marco Pasut, che ringraziamo)
 - Appunti sulle Distribuzioni: [doc](https://ottarub98.github.io/YouActuary/Analisi_dei_dati/Distribuzioni2.doc) e [pdf](https://ottarub98.github.io/YouActuary/Analisi_dei_dati/Distribuzioni2.pdf) (a cura di Marco Pasut, che ringraziamo)
 - Appunti sulle Medie: [pdf](https://ottarub98.github.io/YouActuary/Analisi_dei_dati/Medie3.pdf) e [doc](https://ottarub98.github.io/YouActuary/Analisi_dei_dati/Medie3.doc) (a cura di Marco Pasut, che ringraziamo)
 
  togliere spazi dal nome dei file, convertire file in pdf, creare cartella senza spazi nel nome su GitHub, uploadare i file nella cartella, scrivere qui il link (come qui sopra)
 
-#### Business English
+##### Business English
 - Intelligent Business Coursebook (Intermediate) (pdf)
 
-### Calcolo delle probabilità
+##### Calcolo delle probabilità
 - Temi d'esame svolti da prof. S. Holzer
 - Mappa concettuale
 - Appunti a cura di Marco Pasut (che ringraziamo)
@@ -26,7 +26,7 @@
 - Scansione appunti probabilità progredito
 - Domande per l'esame orale
 
-### Data managment for big data
+##### Data managment for big data
 - Link sito del corso (reloaded)
 - Libro "R for Data Science" di Grolemund e Wickam
 - Link Datacamp
