@@ -1,9 +1,7 @@
 ### Analisi dei dati
-- Caratteri vari [doc](https://ottarub98.github.io/YouActuary/Analisi_dei_dati/Caratteri_vari.doc) e [pdf](https://ottarub98.github.io/YouActuary/Analisi_dei_dati/Caratteri_vari.pdf) 
-- Distribuzioni2 [doc](https://ottarub98.github.io/YouActuary/Analisi_dei_dati/Distribuzioni2.doc) e [pdf](https://ottarub98.github.io/YouActuary/Analisi_dei_dati/Distribuzioni2.pdf) 
-- Medie3 [pdf](https://ottarub98.github.io/YouActuary/Analisi_dei_dati/Medie3.pdf) e [doc](https://ottarub98.github.io/YouActuary/Analisi_dei_dati/Medie3.doc) 
-
-(Tutti a cura di Marco Pasut, che ringraziamo)
+- Caratteri vari [doc](https://ottarub98.github.io/YouActuary/Analisi_dei_dati/Caratteri_vari.doc) e [pdf](https://ottarub98.github.io/YouActuary/Analisi_dei_dati/Caratteri_vari.pdf) (a cura di Marco Pasut, che ringraziamo)
+- Distribuzioni2 [doc](https://ottarub98.github.io/YouActuary/Analisi_dei_dati/Distribuzioni2.doc) e [pdf](https://ottarub98.github.io/YouActuary/Analisi_dei_dati/Distribuzioni2.pdf) (a cura di Marco Pasut, che ringraziamo)
+- Medie3 [pdf](https://ottarub98.github.io/YouActuary/Analisi_dei_dati/Medie3.pdf) e [doc](https://ottarub98.github.io/YouActuary/Analisi_dei_dati/Medie3.doc)  (a cura di Marco Pasut, che ringraziamo)
 
 
 ## Welcome to GitHub Pages
