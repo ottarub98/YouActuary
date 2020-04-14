@@ -5,6 +5,7 @@
 
 [Distribuzioni2.doc](https://github.com/ottarub98/YouActuary/Analisi_dei_dati/Distribuzioni2.doc) ok
 [Distribuzioni2.pdf](https://github.com/ottarub98/YouActuary/Analisi_dei_dati/Distribuzioni2.pdf) ok
+[Distribuzioni2.pdf](https://github.com/ottarub98/YouActuary//Distribuzioni2.pdf) 
 
 [Medie3.doc](https://github.com/ottarub98/YouActuary/Analisi_dei_dati/Medie3.doc) ok
 [Medie3.pdf](https://github.com/ottarub98/YouActuary/Analisi_dei_dati/Medie3.doc) ok
