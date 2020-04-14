@@ -5,7 +5,10 @@
 
 [Distribuzioni2.doc](https://github.com/ottarub98/YouActuary/Analisi_dei_dati/Distribuzioni2.doc) ok
 [Distribuzioni2.pdf](https://github.com/ottarub98/YouActuary/Analisi_dei_dati/Distribuzioni2.pdf) ok, e infine
+
+
 <a href="https://github.com/ottarub98/YouActuary/Documento.pdf" target="_blank">Documento.pdf</a>
+<a href="ottarub98.github.io/YouActuary/Documento.pdf" target="_blank"> altro Documento.pd.</a>
 
 [Medie3.doc](https://github.com/ottarub98/YouActuary/Analisi_dei_dati/Medie3.doc) ok
 [Medie3.pdf](https://github.com/ottarub98/YouActuary/Analisi_dei_dati/Medie3.doc) ok
