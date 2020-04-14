@@ -1,6 +1,6 @@
 ### Analisi dei dati
-[Caratteri vari.doc](https://github.com/ottarub98/YouActuary/Analisi_dei_dati/Caratteri_vari.doc) togli spazi da titolo
-[Caratteri vari.pdf](https://github.com/ottarub98/YouActuary/Analisi_dei_dati/Caratteri_vari.pdf) togli spazi da titolo
+[Caratteri vari.doc](https://github.com/ottarub98/YouActuary/Analisi_dei_dati/Caratteri_vari.doc) e
+[Caratteri vari.pdf](https://github.com/ottarub98/YouActuary/Analisi_dei_dati/Caratteri_vari.pdf) 
 
 [Distribuzioni2.doc](https://github.com/ottarub98/YouActuary/Analisi_dei_dati/Distribuzioni2.doc) ok
 [Distribuzioni2.pdf](https://github.com/ottarub98/YouActuary/Analisi_dei_dati/Distribuzioni2.pdf) ok
