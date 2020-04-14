@@ -3,9 +3,10 @@
 [Caratteri vari.pdf](https://github.com/ottarub98/YouActuary/blob/master/Analisi_dei_dati/Caratteri_vari.pdf) 
 
 
-[Distribuzioni2.doc](https://github.com/ottarub98/YouActuary/Analisi_dei_dati/Distribuzioni2.doc) ok
-[Distribuzioni2.pdf](https://github.com/ottarub98/YouActuary/Analisi_dei_dati/Distribuzioni2.pdf) ok, e infine
+[Distribuzioni2.doc](https://ottarub98.github.io/YouActuary/Analisi_dei_dati/Distribuzioni2.doc) ok
+[Distribuzioni2.pdf](https://ottarub98.github.io/YouActuary/Analisi_dei_dati/Distribuzioni2.pdf) ok, e infine
 
+infina username.github.io/project-name/ infina [pippo](ottarub98.github.io/YouActuary/Documento.pdf) infina
 
 <a href="https://github.com/ottarub98/YouActuary/Documento.pdf" target="_blank">Documento.pdf</a>
 <a href="ottarub98.github.io/YouActuary/Documento.pdf" target="_blank"> altro Documento.pd.</a>
