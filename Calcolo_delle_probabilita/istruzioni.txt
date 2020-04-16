@@ -1,0 +1,27 @@
+Contenuto dello zip :
+-  definizioni e teoremi 3
+-  definizioni e teoremi - appendice
+-  indice
+-  indice - appendice
+-  modelli d'estrazione - bridge
+-  modelli d'estrazione - dadi
+-  modelli d'estrazione - lotto
+-  modelli d'estrazione - poker
+
+Istruzioni :
+-  stampa nell'ordine "indice" e poi "definizioni e teoremi 3"
+-  l'ultimo capitolo (correlazione e indipendenza stocastica) l'ho rifatto
+   organizzando meglio i teoremi ed è su "definizioni e teoremi - appendice"
+-  a questo punto l'indice relativo all'ultimo capitolo è da cambiare,
+   e lo trovi su "indice - appendice"
+-  stampa i fogli dei 4 "modelli d'estrazione"
+
+Nota :
+-  la parte che riguarda i complementi (distribuzione binomiale, ipergeometrica, 
+   Polya, eventi scambiabili ecc.) e la parte sulla speranza matematica, varianza e
+   funzione generatrice delle probabilità ce le ho solo in formato cartaceo scritte a matita!
+-  nell'indice : def=definizione, teo_=teorema, _teo_=teorema con dimostrazione
+-  nel capitolo "affinamento della descrizione", inserisci il teorema con dimostrazione 
+   "date due partizioni, la partizione prodotto è ancora partizione dell'evento certo" 
+   subito dopo la definizione di "partizione prodotto e congiunta"
+-  ulteriori correzioni ce le ho solo in formato cartaceo
